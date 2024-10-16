@@ -8,7 +8,7 @@
   <p>💻 I have experience as an engineer</p>
   <p>📚 Focused on Statistics and Databases</p>
   <p></p>
-  <p>🔆 Fun fact: I love travelling!</p>
+  <p>🔆 Fun fact: I love to travel!</p>
   <h2>Tools and Technologies:</h2>
 </div>
 
@@ -40,8 +40,13 @@
 </div>
 
 <div>
-  <span><https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></span>
-  <span><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></span>
+  <a href="mailto:svdadm165@gmail.com">
+    <span><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></span>
+  </a>
+  <a href="https://t.me/Beberich">
+    <span><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></span>  
+  </a>
+  
 </div>
 
 <!---
