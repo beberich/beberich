@@ -7,7 +7,7 @@
   <p>🎓 I am a Bachelor's degree students in Data Analyst from Russia 🇷🇺</p>
   <p>💻 I have experience as an engineer</p>
   <p>📚 Focused on Statistics and Databases</p>
-  <p>🔆</p>
+  <p></p>
   <h2>Tools and Technologies:</h2>
 </div>
 
