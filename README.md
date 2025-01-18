@@ -4,9 +4,10 @@
 
 <div>
   <h2>About me:</h2>
-  <p>🎓 I am a Bachelor's degree students in Data Analyst from Russia 🇷🇺</p>
+  <p>🎓 I am a Bachelor's degree students in Big Data from Russia 🇷🇺</p>
   <p>💻 I have experience as an engineer</p>
-  <p>📚 Focused on Statistics and Databases</p>
+  <p>📚 Focused on ETL/ELT and Databases</p>
+  <p>I work as a Date Engineer trainee at X5 (a huge Russian product company)</p>
   <p></p>
   <h2>Tools and Technologies:</h2>
 </div>
